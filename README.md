@@ -1,4 +1,5 @@
 # LDA y Árboles de Decisión
+Base de datos obtenida de UCI Machine Learning Repository, llamada "Student Performance"
 Este proyecto tiene como objetivo predecir si un alumno aprobará una materia (reprobar es sacar menos de 10 en una escala del 1-20) utilizando dos variables principales:
 - Calificación del parcial 2 (G2)
 - Escuela de procedencia (school_MS)- Se binariza como 0 si es de otra escuela o 1 si es de la escuela MS. 
